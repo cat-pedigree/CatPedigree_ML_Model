@@ -1,6 +1,6 @@
 black
-blue
-red
-creme
+gray
+orange
+silver
 black tortie
-blue tortie
+gray tortie
