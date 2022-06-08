@@ -23,7 +23,7 @@ End Goal: Take a photo of a cat and gain their respective breed and information 
 
 ## Dataset
 The dataset were gathered from 2 resources publicly available on the internet.
-- Kaggle Dataset. URL:
+- Kaggle Dataset. URL: https://www.kaggle.com/datasets/ma7555/cat-breeds-dataset 
 - Robots. URL:
 
 1. Kaggle Dataset.
