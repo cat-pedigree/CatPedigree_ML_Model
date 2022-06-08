@@ -1,0 +1,125 @@
+base_color_male,with_white_male,base_color_female,with_white_female,color_prediction
+black,0,black,0,black
+black,1,black,0,black
+black,0,black,1,black
+black,1,black,1,black
+grey,0,grey,0,grey
+grey,1,grey,0,grey
+grey,0,grey,1,grey
+grey,1,grey,1,grey
+orange,0,orange,0,orange
+orange,1,orange,0,orange
+orange,0,orange,1,orange
+orange,1,orange,1,orange
+silver,0,silver,0,silver
+silver,1,silver,0,silver
+silver,0,silver,1,silver
+silver,1,silver,1,silver
+grey,0,black,0,black
+grey,1,black,0,black
+grey,0,black,1,black
+grey,1,black,1,black
+black,0,grey,0,black
+black,1,grey,0,black
+black,0,grey,1,black
+black,1,grey,1,black
+black,0,orange,0,orange
+black,1,orange,0,orange
+black,0,orange,1,orange
+black,1,orange,1,orange
+orange,0,black,0,black
+orange,1,black,0,black
+orange,0,black,1,black
+orange,1,black,1,black
+silver,0,black,0,black
+silver,1,black,0,black
+silver,0,black,1,black
+silver,1,black,1,black
+grey,0,orange,0,orange
+grey,1,orange,0,orange
+grey,0,orange,1,orange
+grey,1,orange,1,orange
+orange,0,grey,0,black
+orange,1,grey,0,black
+orange,0,grey,1,black
+orange,1,grey,1,black
+grey,0,silver,0,silver
+grey,1,silver,0,silver
+grey,0,silver,1,silver
+grey,1,silver,1,silver
+silver,0,grey,0,grey
+silver,1,grey,0,grey
+silver,0,grey,1,grey
+silver,1,grey,1,grey
+orange,0,silver,0,orange
+orange,1,silver,0,orange
+orange,0,silver,1,orange
+orange,1,silver,1,orange
+silver,0,orange,0,orange
+silver,1,orange,0,orange
+silver,0,orange,1,orange
+silver,1,orange,1,orange
+black,0,black tortie,0,black
+black,0,black tortie,0,orange
+black,1,black tortie,0,black
+black,1,black tortie,0,orange
+black,0,black tortie,1,black
+black,0,black tortie,1,orange
+black,1,black tortie,1,black
+black,1,black tortie,1,orange
+grey,0,black tortie,0,grey
+grey,0,black tortie,0,orange
+grey,1,black tortie,0,black
+grey,1,black tortie,0,orange
+grey,0,black tortie,1,black
+grey,0,black tortie,1,orange
+grey,1,black tortie,1,black
+grey,1,black tortie,1,orange
+orange,0,black tortie,0,black
+orange,0,black tortie,0,orange
+orange,1,black tortie,0,black
+orange,1,black tortie,0,orange
+orange,0,black tortie,1,black
+orange,0,black tortie,1,orange
+orange,1,black tortie,1,black
+orange,1,black tortie,1,orange
+silver,0,black tortie,0,black
+silver,0,black tortie,0,orange
+silver,1,black tortie,0,black
+silver,1,black tortie,0,orange
+silver,0,black tortie,1,black
+silver,0,black tortie,1,orange
+silver,1,black tortie,1,black
+silver,1,black tortie,1,orange
+black,0,grey tortie,0,black
+black,0,grey tortie,0,orange
+black,1,grey tortie,0,black
+black,1,grey tortie,0,orange
+black,0,grey tortie,1,black
+black,0,grey tortie,1,orange
+black,1,grey tortie,1,black
+black,1,grey tortie,1,orange
+grey,0,grey tortie,0,grey
+grey,0,grey tortie,0,silver
+grey,1,grey tortie,0,grey
+grey,1,grey tortie,0,silver
+grey,0,grey tortie,1,grey
+grey,0,grey tortie,1,silver
+grey,1,grey tortie,1,grey
+grey,1,grey tortie,1,silver
+orange,0,grey tortie,0,black
+orange,0,grey tortie,0,orange
+orange,1,grey tortie,0,black
+orange,1,grey tortie,0,orange
+orange,0,grey tortie,1,black
+orange,0,grey tortie,1,orange
+orange,1,grey tortie,1,black
+orange,1,grey tortie,1,orange
+silver,0,grey tortie,0,grey
+silver,0,grey tortie,0,silver
+silver,1,grey tortie,0,grey
+silver,1,grey tortie,0,silver
+silver,0,grey tortie,1,grey
+silver,0,grey tortie,1,silver
+silver,1,grey tortie,1,grey
+silver,1,grey tortie,1,silver
