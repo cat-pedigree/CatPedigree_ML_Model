@@ -61,4 +61,59 @@ Hyperpareter Tuning to gain optimized model. If have to, we need to reduce the v
 Repeat the process untill we can get the desired performance
 
 
+## The Pedigree Models API
+The models are available in Keras Saved model form and also Already converted into TensorFlow Lite Model that can be embedded into mobile app. Download the labels under labels.txt and also the desired model. Since the model is still optimized, used the latest model version. model_latestrelease.tflite . Currently the latest model has the highest performance with over >80% of accuracy (and still will be improved). 
+### Datasets for Pedigree
+The datasets were handmade by The Machine Learning Engineer Team collected by CatBreeds Calculator that spesifically predicting the color of the breeds crossbirth. URL:  https://catbreedersensei.com/cat-genetics-calculator/ . The datasets collected under the .csv format and using the team model architecture  with TensorFlow  and converted into separate tflite model from the classification model.
+
+Model for predicting the pedigree but currently supporting only color predictio
+Supported Color for Male ['base_color_male']:
+
+* black : 0
+* gray : 1
+* orange : 2
+* silver : 3
+
+Supported Color for Female ['base_color_female']:
+
+* black: 0
+* gray: 1
+* orange: 2
+* silver : 3
+* black tortie: 4
+* gray tortie: 5
+
+Output:
+
+* black
+* gray
+* orange
+* silver
+* black tortie
+* gray tortie
+
+Another feature
+['with_white']:
+1 - Has White Color
+0 - Has now White color
+
+parameters:
+features ==> float
+labels ==> string
+
+Example of usage:
+Predicting the following cats matching
+male color:  
+black , has white color
+
+femalte color:
+gray, has white color
+
+then the model parameter will be
+[black, 1, gray, 1] --> with their respective numerical representation
+model prediction: Black Tortie
+
+
+
+
 
