@@ -35,7 +35,8 @@ Description
 Description
 
 ## Classification Workflow
-On progress
+![image](https://user-images.githubusercontent.com/58893316/173225550-7dbade49-3e1a-49d7-ab4d-2af9eab1eb88.png)
+
 
 ## Timeline and Master Plan
 
