@@ -1,0 +1,129 @@
+base_color_male,with_white_male,base_color_female,with_white_female,prediction_color
+black,1,black,0,black
+black,0,black,1,black
+black,1,black,1,black
+black,0,black,0,black
+blue,0,blue,0,blue
+blue,1,blue,0,blue
+blue,0,blue,1,blue
+blue,1,blue,1,blue
+red,0,red,0,red
+red,1,red,0,red
+red,0,red,1,red
+red,0,red,0,red
+creme,1,creme,1,creme
+creme,0,creme,0,creme
+creme,1,creme,0,creme
+creme,0,creme,1,creme
+black,0,blue,0,black
+black,0,red,0,black tortie
+black,0,creme,0,black tortie
+black,0,black tortie,0,black
+black,0,blue tortie,0,black
+black,0,blue tortie,0,black tortie
+black,1,blue,1,black
+black,1,red,1,black tortie
+black,1,black tortie,1,black
+black,1,black tortie,1,black tortie
+black,1,blue tortie,1,black
+black,1,blue tortie,1,black tortie
+black,1,blue,0,black
+black,1,red,0,black tortie
+black,1,black tortie,0,black tortie
+black,1,black tortie,0,black
+black,1,blue tortie,0,black
+black,1,blue tortie,0,black tortie
+black,0,blue,1,black
+black,0,red,1,black tortie
+black,0,black tortie,1,black tortie
+black,0,black tortie,1,black
+black,0,blue tortie,1,black
+black,0,blue tortie,1,black tortie
+blue,0,black,0,black
+blue,0,black,0,blue
+blue,0,red,0,black tortie
+blue,0,creme,0,blue tortie
+blue,0,black tortie,0,black tortie
+blue,0,black tortie,0,black
+blue,0,blue tortie,0,blue
+blue,0,blue tortie,0,blue tortie
+blue,1,black,1,black
+blue,1,blue,1,blue
+blue,1,red,1,black tortie
+blue,1,creme,1,blue tortie
+blue,1,black tortie,1,black tortie
+blue,1,black tortie,1,black
+blue,1,blue tortie,1,blue tortie
+blue,1,blue tortie,1,blue
+blue,1,black,0,black
+blue,1,blue,0,blue
+blue,1,red,0,black tortie
+blue,1,creme,0,blue tortie
+blue,1,black tortie,0,black tortie
+blue,1,black tortie,0,black
+blue,1,blue tortie,0,blue tortie
+blue,1,blue tortie,0,blue
+blue,0,black,1,black
+blue,0,blue,1,blue
+blue,0,red,1,black tortie
+blue,0,creme,1,blue tortie
+blue,0,black tortie,1,black
+blue,0,black tortie,1,black tortie
+blue,0,blue tortie,1,blue
+blue,0,blue tortie,1,blue tortie
+red,0,black,0,black tortie
+red,0,blue,0,black tortie
+red,0,red,0,red
+red,0,creme,0,red
+red,0,black tortie,0,black tortie
+red,0,black tortie,0,red
+red,0,blue tortie,0,black tortie
+red,1,black,1,black tortie
+red,1,blue,1,black tortie
+red,1,red,1,red
+red,1,creme,1,red
+red,1,black tortie,1,black tortie
+red,1,black tortie,1,red
+red,1,blue tortie,1,black tortie
+red,1,black,0,black tortie
+red,1,blue,0,black tortie
+red,1,red,0,red
+red,1,red,0,red
+red,1,black tortie,0,black tortie
+red,1,black tortie,0,red
+red,1,blue tortie,0,black tortie
+red,0,black,1,black tortie
+red,0,blue,1,black tortie
+red,0,red,1,red
+red,0,creme,1,black tortie
+red,0,black tortie,1,black tortie
+red,0,black tortie,1,red
+red,0,blue tortie,1,black tortie
+creme,0,black,0,black tortie
+creme,0,blue,0,blue tortie
+creme,0,red,0,red
+creme,0,creme,0,creme
+creme,0,black tortie,0,black tortie
+creme,0,black tortie,0,red
+creme,0,blue tortie,0,blue tortie
+creme,1,black,1,black tortie
+creme,1,blue,1,black tortie
+creme,1,red,1,red
+creme,1,creme,1,creme
+creme,1,black tortie,1,black tortie
+creme,1,black tortie,1,red
+creme,1,blue tortie,1,blue tortie
+creme,1,black,0,black tortie
+creme,1,blue,0,blue tortie
+creme,1,red,0,red
+creme,1,creme,0,creme
+creme,1,black tortie,0,black tortie
+creme,1,black tortie,0,red
+creme,1,blue tortie,0,blue tortie
+creme,0,black,1,black tortie
+creme,0,blue,1,blue tortie
+creme,0,red,1,red
+creme,0,creme,1,creme
+creme,0,black tortie,1,black tortie
+creme,0,black tortie,1,red
+creme,0,blue tortie,1,blue tortie

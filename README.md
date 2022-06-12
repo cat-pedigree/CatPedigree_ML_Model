@@ -47,6 +47,7 @@ Gathering the dataset. We also clean the dataset for each breeds to remove unrel
 
 ### Stage 2 - Image Preprocessing and data augmentation (done)
 Perform Feature Engineering to remove unwanted noise from images. Perform Image Augmentation to avoid overfit and slightly improve the model from only 20% to 80% of accuracy.
+<<<<<<< HEAD
 
 ### Stage 3 - Build the model prototype (done)
 Build simple model architecture using Tensorflow Sequential, apply some of the Transfer Learning Model from TensorflowHub like MobileNet, ResNet, and InceptionV3 and perform Fine Tuning to retrain the model to the spesific cases of cats classification.
@@ -113,7 +114,17 @@ then the model parameter will be
 [black, 1, gray, 1] --> with their respective numerical representation
 model prediction: Black Tortie
 
+=======
+>>>>>>> experiment_model_inceptionv3
 
+### Stage 3 - Build the model prototype (done)
+Build simple model architecture using Tensorflow Sequential, apply some of the Transfer Learning Model from TensorflowHub like MobileNet, ResNet, and InceptionV3 and perform Fine Tuning to retrain the model to the spesific cases of cats classification.
 
+### Stage 4 - Convert to TFLite and ready for deployment (done)
+Model already converted to TFLite and can be used by the Mobile Devs Team.
 
+### Stage 5 - Optimizing model performance (on progress)
+Hyperpareter Tuning to gain optimized model. If have to, we need to reduce the variance of the images.
 
+### Stage 6 
+Repeat the process untill we can get the desired performance
