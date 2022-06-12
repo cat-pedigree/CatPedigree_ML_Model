@@ -35,8 +35,11 @@ Description
 Description
 
 ## Classification Workflow
+
+### Classification Model
 ![image](https://user-images.githubusercontent.com/58893316/173225550-7dbade49-3e1a-49d7-ab4d-2af9eab1eb88.png)
 
+### Pedigree Model Workflow
 
 ## Timeline and Master Plan
 
