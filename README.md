@@ -40,6 +40,7 @@ Description
 ![image](https://user-images.githubusercontent.com/58893316/173225550-7dbade49-3e1a-49d7-ab4d-2af9eab1eb88.png)
 
 ### Pedigree Model Workflow
+![image](https://user-images.githubusercontent.com/58893316/173225635-f85f3019-cc4f-4d4c-8c84-dcbb69631631.png)
 
 ## Timeline and Master Plan
 
